@@ -6,7 +6,7 @@
 
 ![Saila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailafr&show_icons=true&theme=transparent)
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" style="background:none;"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" style="background:transparent;"/>
 
 <!---
 sailafr/sailafr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
