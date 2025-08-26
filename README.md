@@ -13,9 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sailafr&layout=compact&theme=transparent)
 
-### Personality Section
-
-![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif)
 
 <!---
 sailafr/sailafr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
