@@ -2,9 +2,9 @@
 👀 I’m interested in data analysis
 🌱 I’m currently learning about machine learning, deep learning, and data analyst.
 
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=sailafr&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sailafr&layout=compact&theme=transparent)
-
-![Saila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailafr&show_icons=true&theme=transparent)
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" style="background:transparent;"/>
 
