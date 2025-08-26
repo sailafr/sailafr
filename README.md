@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sailafr
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning about machine learning, deep learning, and data analyst
-- - 🎯 Goal: Build more open-source projects
+- 🎯 Goal: Build more open-source projects
 
 ### 🛠️ Tools & Tech
 
